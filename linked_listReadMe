@@ -1,0 +1,28 @@
+Developer Name: Farzyab Gohar
+Developer Email: farzyabgohar@cmail.carleton.ca
+Development Date: 24th Nov 2017
+
+Program purpose: 
+	To provide basic linked list functions that can be used to manipulate a provided linked list in various ways
+
+
+
+Example output:
+	if a linked list is provided to removeDuplicates, duplicate records by matching First Name will be removed and 		the sample output will be displayed
+
+ 	remove duplicates 
+
+	Bev                  Smith                    137 
+	Don                  Smith                     89 
+	Edna                 Bronson                  109 
+	John                 Tower                     37 
+	Miya                 Broker                   125
+		
+Source files:
+	linked_list.c linked_list.h main.c bubble_sort.o bubble_sort.h Makefile
+
+Exact compilation command:
+	make
+
+Launching and operating instructions:
+	./a.out
